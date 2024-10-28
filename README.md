@@ -5,7 +5,7 @@ A simple To-Do List application built with JavaFX. This application allows users
 ## Screenshots
 
 ### 1. Initial App Screen
-![Main Page Without Tasks](images/Untitiled.png)
+![Main Page Without Tasks](images/Untitled.png)
 This screenshot shows the main page of the app when it is launched, with no tasks added yet.
 
 ### 2. App Screen with Added Tasks
