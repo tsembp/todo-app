@@ -9,7 +9,7 @@ A simple To-Do List application built with JavaFX. This application allows users
         <td><img src="images/Untitled.png" alt="Main Page Without Tasks" width="250"/></td>
         <td><img src="images/Untitled1.png" alt="Main Page With Added Tasks" width="250"/></td>
         <td><img src="images/Untitled2.png" alt="Completed Tasks" width="250"/></td>
-        <td><img src="images/Untitled3.png" alt="Remove Task Prompt" width="350"/></td>
+        <td><img src="images/Untitled3.png" alt="Remove Task Prompt" width="320"/></td>
     </tr>
 </table>
 
