@@ -1,4 +1,4 @@
-# 📋✅ To-Do List Application
+# 📋 To-Do List Application
 
 A simple To-Do List application built with JavaFX. This application allows users to add, complete, and remove tasks while providing a user-friendly interface.
 
