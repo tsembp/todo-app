@@ -26,7 +26,7 @@ A simple To-Do List application built with JavaFX. This application allows users
 - JavaFX
 - Scene Builder (optional for layout design)
 
-## Getting Started
+## ⏩ Getting Started
 
 ### Prerequisites
 
