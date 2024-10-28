@@ -18,7 +18,7 @@ A simple To-Do List application built with JavaFX. This application allows users
 - **➕ Add Tasks**: Easily add new tasks to your list.
 - **✅ Complete Tasks**: Mark tasks as completed.
 - **➖ Remove Tasks**: Delete tasks from the list.
-- **📱 User-Friendly Interface**: Simple interface. Updates coming soon.
+- **📱 User-Friendly Interface**: Simple interface. Modern interface updates coming soon.
 
 ## Technologies Used
 
