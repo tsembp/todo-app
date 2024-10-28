@@ -4,17 +4,8 @@ A simple To-Do List application built with JavaFX. This application allows users
 
 ## Screenshots
 
-### 1. Initial App Screen
-<img src="images/Untitled.png" alt="Main Page Without Tasks" width="200"/>
 
-### 2. App Screen with Added Tasks (Undone tasks)
-<img src="images/Untitled1.png" alt="Main Page With Added Tasks" width="200"/>
-
-### 3. Completed Tasks
-<img src="images/Untitled2.png" alt="Completed Tasks" width="200"/>
-
-### 4. Remove Task Confirmation
-<img src="images/Untitled3.png" alt="Remove Task Prompt" width="200"/>
+<img src="images/Untitled.png" alt="Main Page Without Tasks" width="200"/> <img src="images/Untitled1.png" alt="Main Page With Added Tasks" width="200"/> <img src="images/Untitled2.png" alt="Completed Tasks" width="200"/> <img src="images/Untitled3.png" alt="Remove Task Prompt" width="200"/>
 
 ## Features
 
