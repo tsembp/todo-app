@@ -5,16 +5,16 @@ A simple To-Do List application built with JavaFX. This application allows users
 ## Screenshots
 
 ### 1. Initial App Screen
-![Main Page Without Tasks](images/Untitled.png)
+<img src="images/Untitled.png" alt="Main Page Without Tasks" width="400"/>
 
 ### 2. App Screen with Added Tasks (Undone tasks)
-![Main Page With Added Tasks](images/Untitled1.png)
+<img src="images/Untitled1.png" alt="Main Page With Added Tasks" width="400"/>
 
 ### 3. Completed Tasks
-![Completed Tasks](images/Untitled2.png)
+<img src="images/Untitled2.png" alt="Completed Tasks" width="400"/>
 
 ### 4. Remove Task Confirmation
-![Remove Task Prompt](images/Untitled3.png)
+<img src="images/Untitled3.png" alt="Remove Task Prompt" width="400"/>
 
 ## Features
 
@@ -42,3 +42,4 @@ A simple To-Do List application built with JavaFX. This application allows users
 
    ```bash
    git clone https://github.com/yourusername/todo-app.git
+   ```
